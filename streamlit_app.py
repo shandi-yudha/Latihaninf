@@ -1,3 +1,5 @@
+import streamlit as st
+
 st.title("Selamat Datang di Website Ini :)")
 st.write(
     "Web Gabut Milik Shnydh"
