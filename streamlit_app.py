@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.title("Selamat Datang di web Ini :)")
+st.title("Selamat Datang di Website Ini :)")
 st.write(
-    "web gabut milik shnydh"
+    "Web Gabut Milik Shnydh"
 )
 st.image("400px-Weather_Report_Stand_Infobox_Manga.png", width=200)
 st.write(
